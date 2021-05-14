@@ -1,3 +1,3 @@
 # flutter_news_app
 
-!(news app)[newsapp_output.png]
+![news app](newsapp_output.png)
